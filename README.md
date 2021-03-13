@@ -1,7 +1,8 @@
 <h1 align="center">Welcome fellow 👋, I'm phuwn</h1>
-<h3 align="center">A tech lover</h3>
-<h3 align="center">A young and passionate engineer who believes programming can rewrite this world</h3>
-<h3 align="center">Follow me, to the techies land. at <a href="https://phuwn.wtf">phuwn.wtf</a></h3>
+<h3 align="center">A Geek ⭐️</h3>
+<h3 align="center">A Cat Slave 🐾</h3>
+<h3 align="center">A Ninja writer</h3>
+<h3 align="center">Check out my garage <a href="https://phuwn.wtf">phuwn.wtf</a></h3>
 
 <!--
 **phuwn/phuwn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
